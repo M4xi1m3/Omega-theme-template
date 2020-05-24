@@ -3,9 +3,9 @@ Template theme for [Omega-Themes](https://github.com/Omega-Numworks/Omega-Themes
 
 This is a theme based on [Nord](https://www.nordtheme.com/)
 
-## Installation
-On the Omega repo execute the python script `themes/theme_manager.py` with the argument `--install <theme_name>`  
-for this repo it would be ```$ python themes/theme_manager.py --install  NilsPonsard/Omega-theme-template ```
+## Download
+On the Omega repo execute the python script `themes/theme_manager.py` with the argument `--download <github_user>/<repo_name>`  
+for this repo it would be ```$ python themes/theme_manager.py --download  NilsPonsard/Omega-theme-template ```
 
 
 
