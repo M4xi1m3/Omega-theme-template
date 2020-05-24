@@ -18,5 +18,6 @@ At the root of the repo, the file is defining the color palette and the icon set
 - Or a "path-like" string pointing to a github repo, formatted this way :   
 `<github_user>/<repo_name>/<branch>/<icons_folder>`   
 here this string is :  `NilsPonsard/Omega-Themes/master/icons`
+- Or the name of a folder in the `themes/icons/` folder
 ## Folder `icons` : 
 Contains the icon set of your theme, optionnal
