@@ -1,6 +1,6 @@
 {
     "name": "Sautax’s nord",
-    "icons": "NilsPonsard/Omega-theme-template/master/icons",
+    "icons": null,
     "colors": {
         "PrimaryText": "eceff4",
         "SecondaryText": "81a1c1",
